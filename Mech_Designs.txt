@@ -39,7 +39,7 @@ Health: 15
 
 Special
 Shield 3
-Alertness
+Alert
 Shock Resistance
 On Enter: Break 3 target Mechs.
 

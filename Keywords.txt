@@ -29,7 +29,7 @@ Break: Breaking a Mech means putting it into its owner's Discard Pile.
 Exhaust: Turn the Mech sideways in a 90 Degree Manner.
 
 
-Alertness: Mechs with Alertness don't exhaust when Attacking.
+Alert: Mechs with Alertness don't exhaust when Attacking.
 
 Foresight X: Look at the top X cards of your Deck. Put any amount of them on the Bottom of your Deck and the rest in any order on Top of your Deck.
 

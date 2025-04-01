@@ -1,0 +1,40 @@
+Keywords:
+
+
+Special: A Mech with the 'Special'-Keyword can only occur once on each Commander's side of the Battlezone.
+If 2 Instances of a Mech of the same name with the Special-Keyword are on the Battlezone under one Commander's Control,
+one Instance has to be put into that Commander's Discard pile.
+
+On Enter: When this Mech enters the Battlezone.
+
+On Break: When this Mech gets broken via Damage or an Ability.
+
+
+Shield X: The Mech receives X Shield-Counter on Enter.
+
+Shield for X: The Mech receives X additional Shield-Counter.
+
+
+Repair for X: Remove X Damage Counters from the targeted Mech.
+
+
+
+Break: Breaking a Mech means putting it into its owner's Bin.
+
+
+Exhaust: Turn the Mech sideways in a 90 Degree Manner.
+
+
+Alertness: Mechs with Alertness don't exhaust when Attacking.
+
+Foresight X: Look at the top X cards of your Deck. Put any amount of them under your Deck and the rest in any order on Top of your Deck.
+
+
+Disrupt: When a card gets put on the stack, it can be disrupted. When a card gets disrupted, it is put into its Commander's Discardpile. Its effects won't happen.
+
+Gaining X Life / Energy: Just add the appropriate amount to your Energy / Life total.
+
+
+Undisruptable: A card with this Keyword cannot get disrupted.
+
+Rush: A Mech with Rush can attack the same turn it entered the BattleZone (given that it CAN attack).

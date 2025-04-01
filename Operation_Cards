@@ -1,0 +1,150 @@
+Operations:
+
+Properties:
+-> Namen
+-> Energy-Costs
+-> Tempo
+-> Effect
+-> maximum Amount of Copies you can play in a Deck.
+
+
+Call the Drones:
+
+Energy-Costs: 4
+Tempo: Fast
+Amount: 3
+
+Drop 3 Drones.
+
+
+
+Heatblast:
+
+Energy-Costs: 1
+Tempo: Fast
+Amount: 4
+
+Damage target Mech or Commander for 2.
+
+
+Heatflare:
+
+Energy-Costs: 3
+Tempo: Fast
+Amount: 4
+
+Damage target Mech or Commander for 4.
+
+
+Shockwave:
+
+Energy-Costs: 4
+Tempo: Slow
+Amount: 4
+Shock each Mech for 2.
+
+
+
+Research:
+
+Energy-Costs: 2
+Tempo: Fast
+Amount: 4
+
+Forsight 1.
+Draw 1 Card.
+or
+Repair target Mech for 2.
+
+
+Heatwave:
+
+Energy-Costs: 5
+Tempo: Slow
+Amount: 3
+
+Damage each Mech for 3.
+
+
+
+Energy-Support:
+
+Energy-Costs: 4
+Tempo: Slow
+Amount: 4
+
+Drop 2 Supply-Mech.
+
+Gain 4 Life.
+
+
+
+
+Energy-Burst:
+
+Energy-Costs: 3
+Tempo: Slow
+Amount: 4
+
+Gain 5 Energy.
+
+
+
+Brutal Strike:
+
+Energy-Costs: 3
+Tempo: Slow
+Amount: 3
+
+Break target Mech.
+
+
+Take Inventory:
+
+Energy-Costs: 6
+Tempo: Fast
+Amount: 4
+
+Draw 3 Cards.
+
+
+
+Energy-Boom:
+
+Energy-Costs: 7
+Tempo: Slow
+Amount: 3
+
+Drop 5 Supply-Mechs.
+
+Gain 7 Life.
+
+
+Lucky Drop:
+
+Energy-Costs: 0
+Tempo: Slow
+Amount: 4
+
+Gain 1 Energy.
+
+
+
+Planning ahead:
+
+Energy-Costs: 3
+Tempo: Slow
+Amount: 4
+
+Foresight 5.
+
+
+
+Disrupt:
+
+Energy-Costs: 2
+Tempo: Fast
+Amount: 4
+
+Disrupt target Card. If a card gets disrupted this way,
+its Commander draws 1 Card.

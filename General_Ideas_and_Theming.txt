@@ -1,0 +1,119 @@
+-------------------------------------------------------
+Mech Front
+-------------------------------------------------------
+
+a competitive, small-scale Card Game created by CJT!
+
+#######################################################################################################
+#######################################################################################################
+
+SIDENOTES:
+
+I love Magic The Gathering.
+I REALLY do, and thus, many mechanics / Ideas will be within this Game.
+I don't want to COPY MTG, but just find my own way of designing a small little Card Game.
+I also appreciate Magic's Complexity and Depth, I really do.
+Many Aspects and Ideas might come from Magic / other Card Games, I do know that!
+But after all, building upon the key aspects of MTG I really enjoy also shows how well it seems to work out, right?
+
+#######################################################################################################
+#######################################################################################################
+
+
+General Theming:
+
+Battling for the Batterie-Recourses of the Planet, Mechbots battle it out against one another.
+Each player takes the role of a commander, leading their MechaBots to victory through MechaBot-, Action-,
+Upgrade- and Energy-Cards!
+
+
+-------------------------------------------------------
+Card Types:
+-------------------------------------------------------
+
+Mech:
+
+A strong Unit, standing ground for its Commander!
+There to deal Damage, block incoming Damage and provide even unique Effects / Abilities!
+
+
+Operation:
+
+Offer a one-time effect.
+
+
+Upgrade:
+
+Upgrades are put on Mechs.
+Once a Mech gets broken, its Upgrades will break as well!
+
+
+-------------------------------------------------------
+
+All Cards will cost some Amount of Energy.
+All Cards will have a Maximum amount of Copies you can play in each Deck.
+So the Amount of Copies you can play depends on the Card itself.
+
+Each Card has a Tempo:
+SLOW
+or
+FAST
+
+Cards with the Tempo SLOW
+Can only be played during its Commander's own Turn, during their Spending-Phases, when nothing else is on the Stack.
+
+Cards with the Tempo FAST
+Can be played at ANY time, given you can obviously pay its Costs!
+
+-------------------------------------------------------
+
+
+Damage on Mechs is PERMANENT.
+
+If a Mech receives Damage, I suggest you tracking the Damage it has been dealt with a RED DICE.
+
+If a Mech gets Shield-Counter, I suggest Tracking these with a BLUE DICE.
+
+The same goes for Shock-Counter and YELLOW DICE.
+
+
+A Turn:
+
+A Turn consists of Different Phases:
+
+Ready-Up-Phase.
+
+Draw-Phase.
+
+Spending-Phase 1.
+
+Combat-Phase.
+
+Spending-Phase 2.
+
+End-Phase.
+
+
+
+
+
+
+
+Axis of Card Balance:
+
+We have several Axis we can use to Balance each Card:
+-> Energy-Costs
+-> Amount of Copies capable of being played per Deck
+-> The Tempo of the Card
+-> Then the Card itself.
+
+
+
+
+
+Deck Building:
+
+Every Deck consists of 40 Cards. Decks cannot consist of less or more than 40 Cards.
+There are no restrictions to the amount of Action, Mecha, Energy and Upgrade-Cards.
+The only restriction is that the maximum Amount of copies for each card cannot be exceeded.
+If a card can be played up to 4 times, any amount from 0-4 can be used within each deck, but no more than 4.

@@ -1,0 +1,187 @@
+Mech-Designs:
+
+
+Each Mech-Card consist of the Following:
+
+- Name
+- Energy Cost
+- Attack and Health Stats
+- The Maximum amount of Copies you can play in any given Deck.
+-> This stat is in each Mech's Name. It's the Number after the initial Letter.
+-> X2-11 World Destroyer can be played up to two Times, since the Number after the 'X' is a 2.
+
+Example-Card:
+
+NAME
+
+Energy-Costs: --
+Tempo: --
+Attack: --
+Health: --
+
+Keywords
+On Enter-Abilites: --
+Other Abilities
+On Break-Abilities: --
+
+
+-------------------------------------------------------
+
+X2-11 World Destroyer:
+
+Energy-Costs: 15
+Tempo: Slow
+Attack: 15
+Health: 15
+
+Special
+Shield 3
+Alertness
+Shock Resistance
+On Enter: Break 3 target Mechs.
+
+-------------------------------------------------------
+
+Y2-99 World Defender:
+
+Energy-Costs: 13
+Tempo: Slow
+Attack: 6
+Health: 11
+
+Special
+On Enter: Shock up to 5 target Mechs for 3.
+
+-------------------------------------------------------
+
+P2-31 World Supporter:
+
+
+Energy-Costs: 14
+Tempo: Slow
+Attack: 5
+Health: 8
+
+Special
+Undisruptable
+On Enter: Drop 7 Supply-Mechs. Gain 7 Life.
+
+-------------------------------------------------------
+
+O4-78 Converter:
+
+Energy-Costs: 7
+Tempo: Fast
+Attack: 5
+Health: 6
+
+2E: Damage target Mech for 1.
+3E: Repair Target Mech for 1.
+4E: Shock target Mech for 1.
+3E: Draw 1 Card.
+
+-------------------------------------------------------
+
+H4-12 Ravager:
+
+Energy-Costs: 5
+Tempo: Slow
+Attack: 5
+Health: 4
+
+Special
+Rush
+This Mech attacks each turn, if able.
+2E, discard 1 Card: Damage a Mech or a Commander for 2.
+
+-------------------------------------------------------
+
+Z4-21 Supporter:
+
+Energy-Costs: 2
+Tempo: Slow
+Attack: 1
+Health: 2
+
+3E: Draw 1 Card.
+
+-------------------------------------------------------
+
+J4-90 Attacker:
+
+Energy-Costs: 3
+Tempo: Slow
+Attack: 2
+Health: 1
+
+On Enter: Damage target Mech or Commander for 2.
+
+-------------------------------------------------------
+
+Y6-12 Attacker:
+
+Energy-Costs: 3
+Tempo: Slow
+Attack: 3
+Health: 1
+
+Rush
+
+-------------------------------------------------------
+
+A6-02 Recruited:
+
+Energy-Costs: 2
+Tempo: Slow
+Attack: 2
+Health: 2
+
+-------------------------------------------------------
+
+Z6-03 Walker:
+
+Energy-Costs: 1
+Tempo: Slow
+Attack: 1
+Health: 1
+
+-------------------------------------------------------
+
+U4-22 Disrupter:
+
+Energy-Costs: 3
+Tempo: Fast
+Attack: 2
+Health: 1
+
+Flying
+
+-------------------------------------------------------
+
+Z4-13 Deliverer:
+
+Energy-Costs: 4
+Tempo: Slow
+Attack: 1
+Health: 2
+
+On Enter: Drop 1 Supply-Mech.
+Break this Mech: Gain 2 Energy.
+
+
+
+-------------------------------------------------------
+
+O4-00 Protector:
+
+Energy-Costs: 1
+Tempo: Slow
+Attack: 0
+Health: 1
+
+Break this Mech:  Shield target Mech you command for 1.
+
+-------------------------------------------------------
+
+
+

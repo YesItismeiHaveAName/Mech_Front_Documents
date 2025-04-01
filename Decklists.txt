@@ -1,6 +1,6 @@
 Aggro:
 
-Mechas: (32)
+Mechs: (32)
 
 6 Z6-03 Walker (1)
 
@@ -21,19 +21,6 @@ Operations: (8)
 4 Heatflare (3)
 
 
-Energy-Curve:
-
-0:	0
-1:	10
-2:	10
-3:	16
-4:	0
-5:	4
-
-
-Average Energy Cost:
-~ 
-
 Gameplay:
 
 Pressure your Opponent with many small Creatures, Direct Damage and Ravager as a GREAT finisher.
@@ -45,10 +32,12 @@ The Supporter can be used to turn spare Energy into Cards.
 
 
 
-Grind-Stall:
+Titansupply:
 
 
-Mechas: (10)
+Mechs: (14)
+
+4 O4-00 Protector (1)
 
 4 Z4-13 Deliverer (4)
 
@@ -60,47 +49,23 @@ Mechas: (10)
 
 
  
-Operations: (30)
+Operations: (26)
 
-4 Heatblast (1)
 4 Shockwave (4)
-4 Planning Ahead (3)
+4 Planning Ahead (2)
 3 Energy-Boom (7)
-4 Enery-Support (4)
+4 Energy-Support (4)
 4 Energy-Burst (3)
 3 Take Inventory (6)
 4 Disrupt (2)
 
 
 
-Energy-Curve:
-
-0:	0
-1:	4
-2:	4
-3:	8
-4:	12
-5:	0
-6:	3
-7:	3
-8:	0
-9:	0
-10:	0
-11:	0
-12:	0
-13:	2
-14:	2
-15:	0
-
-
-Average Energy Cost:
-~ 5,175
-
 
 Gameplay:
 
-Play a more defensive Game and Overwhelm your Opponent in the Lategame with your Titans and Cardadvantage.
-Ramp up using Actioncards that drop Supply-Mechas and get your beater on the BattleZone as quickly as Possible.
-Use Planning ahead to finetune your draws for several turns and prepare for your reactive gameplay.
+Play a more defensive Game and Overwhelm your Opponent in the Late Game with your Titans and Card Advantage.
+Ramp up using Action Cards that drop Supply-Mechs and get your beater on the Battle Zone as quickly as Possible.
+Use 'Planning ahead' to finetune your draws for several Turns and prepare for your reactive Gameplay.
 
 

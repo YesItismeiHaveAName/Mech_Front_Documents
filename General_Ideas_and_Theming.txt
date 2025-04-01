@@ -123,6 +123,10 @@ The only restriction is that the maximum Amount of copies for each card cannot b
 If a card can be played up to 4 times, any amount from 0-4 can be used within each deck, but no more than 4.
 
 
+For Competition, a Deck also includes a 15-Cards Sideboard, which can be used to prepare for bad Match-Ups.
+-> So any Deck + Sideboard may not include more than the maximum Amount of Copies of any Card.
+
+
 
 #######################################################################################################
 #######################################################################################################

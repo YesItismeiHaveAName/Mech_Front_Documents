@@ -7,6 +7,7 @@ Properties:
 -> Effect
 -> maximum Amount of Copies you can play in a Deck.
 
+-------------------------------------------------------
 
 Call the Drones:
 
@@ -14,9 +15,9 @@ Energy-Costs: 4
 Tempo: Fast
 Amount: 3
 
-Drop 3 Drones.
+Drop 2 Drones.
 
-
+-------------------------------------------------------
 
 Heatblast:
 
@@ -26,6 +27,7 @@ Amount: 4
 
 Damage target Mech or Commander for 2.
 
+-------------------------------------------------------
 
 Heatflare:
 
@@ -35,6 +37,7 @@ Amount: 4
 
 Damage target Mech or Commander for 4.
 
+-------------------------------------------------------
 
 Shockwave:
 
@@ -43,7 +46,7 @@ Tempo: Slow
 Amount: 4
 Shock each Mech for 2.
 
-
+-------------------------------------------------------
 
 Research:
 
@@ -51,11 +54,11 @@ Energy-Costs: 2
 Tempo: Fast
 Amount: 4
 
-Forsight 1.
-Draw 1 Card.
-or
+Foresight 1.
+Draw 1 Card or
 Repair target Mech for 2.
 
+-------------------------------------------------------
 
 Heatwave:
 
@@ -65,7 +68,7 @@ Amount: 3
 
 Damage each Mech for 3.
 
-
+-------------------------------------------------------
 
 Energy-Support:
 
@@ -77,8 +80,7 @@ Drop 2 Supply-Mech.
 
 Gain 4 Life.
 
-
-
+-------------------------------------------------------
 
 Energy-Burst:
 
@@ -88,7 +90,7 @@ Amount: 4
 
 Gain 5 Energy.
 
-
+-------------------------------------------------------
 
 Brutal Strike:
 
@@ -98,6 +100,7 @@ Amount: 3
 
 Break target Mech.
 
+-------------------------------------------------------
 
 Take Inventory:
 
@@ -107,7 +110,7 @@ Amount: 4
 
 Draw 3 Cards.
 
-
+-------------------------------------------------------
 
 Energy-Boom:
 
@@ -116,9 +119,9 @@ Tempo: Slow
 Amount: 3
 
 Drop 5 Supply-Mechs.
-
 Gain 7 Life.
 
+-------------------------------------------------------
 
 Lucky Drop:
 
@@ -128,7 +131,7 @@ Amount: 4
 
 Gain 1 Energy.
 
-
+-------------------------------------------------------
 
 Planning ahead:
 
@@ -138,7 +141,7 @@ Amount: 4
 
 Foresight 5.
 
-
+-------------------------------------------------------
 
 Disrupt:
 
@@ -148,3 +151,6 @@ Amount: 4
 
 Disrupt target Card. If a card gets disrupted this way,
 its Commander draws 1 Card.
+
+-------------------------------------------------------
+

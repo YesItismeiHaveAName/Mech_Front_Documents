@@ -10,6 +10,8 @@ Each Mech-Card consist of the Following:
 -> This stat is in each Mech's Name. It's the Number after the initial Letter.
 -> X2-11 World Destroyer can be played up to two Times, since the Number after the 'X' is a 2.
 
+-------------------------------------------------------
+
 Example-Card:
 
 NAME

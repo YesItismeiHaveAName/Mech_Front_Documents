@@ -141,7 +141,7 @@ Health: 2
 
 -------------------------------------------------------
 
-Z6-03 Walker:
+Z6-03 Prototype:
 
 Energy-Costs: 1
 Tempo: Slow

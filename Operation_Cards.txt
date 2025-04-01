@@ -13,7 +13,7 @@ Call the Drones:
 
 Energy-Costs: 4
 Tempo: Fast
-Amount: 3
+Amount: 4
 
 Drop 2 Drones.
 

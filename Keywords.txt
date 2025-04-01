@@ -23,7 +23,7 @@ Shock Resistance: If Shock Counters were to be put onto this Mech, none will be 
 
 Flying: A Mech with Flying can only be blocked by Mechs that have Flying themselves.
 
-Break: Breaking a Mech means putting it into its owner's Bin.
+Break: Breaking a Mech means putting it into its owner's Discard Pile.
 
 
 Exhaust: Turn the Mech sideways in a 90 Degree Manner.

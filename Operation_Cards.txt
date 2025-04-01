@@ -135,7 +135,7 @@ Gain 1 Energy.
 
 Planning ahead:
 
-Energy-Costs: 3
+Energy-Costs: 2
 Tempo: Slow
 Amount: 4
 
@@ -149,7 +149,7 @@ Energy-Costs: 2
 Tempo: Fast
 Amount: 4
 
-Disrupt target Card. If a card gets disrupted this way,
+Disrupt target Card. If a Card gets disrupted this Way,
 its Commander draws 1 Card.
 
 -------------------------------------------------------

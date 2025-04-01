@@ -22,8 +22,8 @@ Attack: --
 Health: --
 
 Keywords
-On Enter-Abilites: --
-Other Abilities
+On Enter-Abilities: --
+-- Other Abilities --
 On Break-Abilities: --
 
 

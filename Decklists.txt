@@ -64,10 +64,10 @@ Use 'Planning ahead' to finetune your draws for several Turns and prepare for yo
 
 Control:
 
-Mechs: (5)
+Mechs: (4)
 
 1 Y2-99 World Defender  (13)
-2 P2-31 World Supporter (14)
+1 P2-31 World Supporter (14)
 2 X2-11 World Destroyer (15)
 
 
@@ -79,7 +79,7 @@ Operations: (35)
 4 Disrupt           (2)
 4 Heatflare         (3)
 3 Brutal Strike     (3)
-3 Energy-Support    (4)
+4 Energy-Support    (4)
 3 Heatwave          (5)
 
 4 Take Inventory    (6)

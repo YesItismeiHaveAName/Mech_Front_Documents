@@ -88,6 +88,37 @@ Life Totals can be tracked using any method, Energy Totals as well!
 #######################################################################################################
 #######################################################################################################
 
+A Turn Cycle:
+
+-------------------------------------------------------
+
+A Turn Cycle can be divided into 3 Steps:
+
+Energy-Step
+Turn Player 1 (Attacker)
+Turn Player 2 (Defender)
+
+This Cycle repeats until one Player has won the Game.
+
+
+#######################################################################################################
+#######################################################################################################
+
+The Energy-Step:
+
+-------------------------------------------------------
+
+The Energy-Step emptys and then fills the Energy Totals of all Players.
+The Amount of Energy given to each Player depends on the Number of the Turn Cycle the Energy-Step takes place in.
+The very first Turn Cycle grants both Players 1 Energy, the second one grants both Players 2 etc.
+So Turn Cycle X provides both Players with X Energy.
+Energy is not kept inbetween Rounds.
+You do not carry over any leftover Energy from the previous Turn Cycle and the Energy-Step is a NON-ACTIONABLE Step.
+So both Player's Energy-Totals get emptied and then filled at the same Time.
+
+#######################################################################################################
+#######################################################################################################
+
 A Turn:
 
 -------------------------------------------------------

@@ -58,8 +58,11 @@ All Cards will have a Maximum amount of Copies you can play in each Deck.
 So the Amount of Copies you can play depends on the Card itself.
 
 Each Card has a Tempo:
+
 SLOW
+
 or
+
 FAST
 
 Cards with the Tempo SLOW

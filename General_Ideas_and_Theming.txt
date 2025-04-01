@@ -76,12 +76,13 @@ Can be played at ANY time, given you can obviously pay its Costs!
 
 Damage on Mechs is PERMANENT.
 
-If a Mech receives Damage, I suggest you tracking the Damage it has been dealt with a RED DICE.
+If a Mech receives Damage, I suggest you tracking the Damage it has been dealt with RED DICE.
 
-If a Mech gets Shield-Counter, I suggest Tracking these with a BLUE DICE.
+If a Mech gets Shield-Counter, I suggest Tracking these with BLUE DICE.
 
 The same goes for Shock-Counter and YELLOW DICE.
 
+Life Totals can be tracked using any method, Energy Totals as well!
 
 
 #######################################################################################################
@@ -150,6 +151,23 @@ If discarding a Card is part of the Cost, you MUST be able to Discard a Card fro
 In Short:
 Fulfill the Costs of an Ability:
 Then put the Ability on the Stack.
+
+#######################################################################################################
+#######################################################################################################
+
+The Stack:
+
+-------------------------------------------------------
+
+All Actions, whether it be playing a Card, using an Ability etc. don't happen instantly.
+These Actions are put on a Stack when used, with the Idea of giving other Players the chance to react with
+their own Action.
+
+If Player A performs any Action, it gets put on the Stack and the Priority is given to Player B. Now Player B might
+choose to perform an Action themself. If they do, their Actions gets put on the Stack as well, on Top of the Action of
+player A. Now Player A gets Priority again until no Player chooses to perform another Action.
+Only then will the Stack be resolved, meaning each Action, from most recently to the first one opening the Stack, will
+be performed accordingly.
 
 #######################################################################################################
 #######################################################################################################

@@ -17,6 +17,10 @@ Shield for X: The Mech receives X additional Shield-Counter.
 
 Repair for X: Remove X Damage Counters from the targeted Mech.
 
+Shock for X: Put X Shock Counters on target Mech. It exhausts.
+
+Shock Resistance: If Shock Counters were to be put onto this Mech, none will be put on it instead.
+
 Flying: A Mech with Flying can only be blocked by Mechs that have Flying themselves.
 
 Break: Breaking a Mech means putting it into its owner's Bin.

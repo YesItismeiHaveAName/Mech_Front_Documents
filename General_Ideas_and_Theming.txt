@@ -10,7 +10,7 @@ a competitive, small-scale Card Game created by CJT!
 SIDENOTES:
 
 I love Magic The Gathering.
-I REALLY do, and thus, many mechanics / Ideas will be within this Game.
+I REALLY do, and thus, many Mechanics / Ideas will be within this Game.
 I don't want to COPY MTG, but just find my own way of designing a small little Card Game.
 I also appreciate Magic's Complexity and Depth, I really do.
 Many Aspects and Ideas might come from Magic / other Card Games, I do know that!
@@ -27,8 +27,11 @@ Each player takes the role of a commander, leading their MechaBots to victory th
 Upgrade- and Energy-Cards!
 
 
--------------------------------------------------------
+#######################################################################################################
+#######################################################################################################
+
 Card Types:
+
 -------------------------------------------------------
 
 Mech:
@@ -77,9 +80,17 @@ If a Mech gets Shield-Counter, I suggest Tracking these with a BLUE DICE.
 The same goes for Shock-Counter and YELLOW DICE.
 
 
+
+#######################################################################################################
+#######################################################################################################
+
 A Turn:
 
+-------------------------------------------------------
+
+
 A Turn consists of Different Phases:
+
 
 Ready-Up-Phase.
 
@@ -94,10 +105,51 @@ Spending-Phase 2.
 End-Phase.
 
 
+#######################################################################################################
+#######################################################################################################
+
+Deck Building:
+
+-------------------------------------------------------
+
+
+Every Deck consists of 40 Cards. Decks cannot consist of less or more than 40 Cards.
+There are no restrictions to the amount of Action, Mecha, Energy and Upgrade-Cards.
+The only restriction is that the maximum Amount of copies for each card cannot be exceeded.
+If a card can be played up to 4 times, any amount from 0-4 can be used within each deck, but no more than 4.
 
 
 
+#######################################################################################################
+#######################################################################################################
 
+Abilities:
+
+-------------------------------------------------------
+
+Mechs can have activated Abilities.
+Activated Abilities need to be activated, thus you often need to pay a Cost in order to use that Ability:
+Example:
+
+3E: Draw 1 Card.
+
+The Costs of any Ability will be provided on the left Side of the ':'.
+The Effects of the Ability are located on the right Side of the ':'.
+In this Case, the Costs are paying 3 Energy.
+When choosing to use an Ability, after paying the Costs, the Ability will be put on the Stack and treated like
+any other Effect of an Operation Card.
+
+You cannot choose to activate any Ability you cannot pay the Costs for.
+When Breaking a Mech is part of the Costs of that Ability, put that Mech in your Discard-Pile.
+If discarding a Card is part of the Cost, you MUST be able to Discard a Card from your Hand.
+
+
+In Short:
+Fulfill the Costs of an Ability:
+Then put the Ability on the Stack.
+
+#######################################################################################################
+#######################################################################################################
 
 Axis of Card Balance:
 
@@ -106,14 +158,3 @@ We have several Axis we can use to Balance each Card:
 -> Amount of Copies capable of being played per Deck
 -> The Tempo of the Card
 -> Then the Card itself.
-
-
-
-
-
-Deck Building:
-
-Every Deck consists of 40 Cards. Decks cannot consist of less or more than 40 Cards.
-There are no restrictions to the amount of Action, Mecha, Energy and Upgrade-Cards.
-The only restriction is that the maximum Amount of copies for each card cannot be exceeded.
-If a card can be played up to 4 times, any amount from 0-4 can be used within each deck, but no more than 4.

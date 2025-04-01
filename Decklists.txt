@@ -38,17 +38,13 @@ Titansupply:
 Mechs: (14)
 
 4 O4-00 Protector (1)
-
 4 Z4-13 Deliverer (4)
-
 2 O4-78 Converter (7)
-
 2 Y2-99 World Defender (13)
-
 2 P2-31 World Supporter (14)
 
 
- 
+
 Operations: (26)
 
 4 Shockwave (4)
@@ -58,7 +54,6 @@ Operations: (26)
 4 Energy-Burst (3)
 3 Take Inventory (6)
 4 Disrupt (2)
-
 
 
 

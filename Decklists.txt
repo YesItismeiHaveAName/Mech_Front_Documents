@@ -2,17 +2,13 @@ Aggro:
 
 Mechs: (32)
 
-6 Z6-03 Prototype (1)
-
-6 A6-02 Recruited (2)
-4 Z4-21 Supporter (2)
-
-4 J4-90 Attacker (3)
-6 Y6-12 Attacker (3)
-4 U4-22 Disrupter (3)
-
-
-4 H4-12 Ravager (5)
+6 Z6-03 Prototype   (1)
+6 A6-02 Recruited   (2)
+4 Z4-21 Supporter   (2)
+4 J4-90 Attacker    (3)
+6 Y6-12 Attacker    (3)
+4 U4-22 Disrupter   (3)
+4 H4-12 Ravager     (5)
 
 
 Operations: (8)
@@ -24,7 +20,7 @@ Operations: (8)
 Gameplay:
 
 Pressure your Opponent with many small Creatures, Direct Damage and Ravager as a GREAT finisher.
-Put Creatures on the field and let them attack relentlessly. The low Energy Curve lets you pressure in early and midgame,
+Put Creatures on the Battlezone and let them attack relentlessly. The low Energy Curve lets you pressure in early and midgame,
 makes you have many options and choices to make and gives you a lot of different play patterns.
 The Supporter can be used to turn spare Energy into Cards. 
 
@@ -37,30 +33,61 @@ Titansupply:
 
 Mechs: (14)
 
-4 O4-00 Protector (1)
-4 Z4-13 Deliverer (4)
-2 O4-78 Converter (7)
-2 Y2-99 World Defender (13)
-2 P2-31 World Supporter (14)
+4 O4-00 Protector           (1)
+4 Z4-13 Deliverer           (4)
+2 O4-78 Converter           (7)
+2 Y2-99 World Defender      (13)
+2 P2-31 World Supporter     (14)
 
 
 
 Operations: (26)
 
-4 Shockwave (4)
-4 Planning Ahead (2)
-3 Energy-Boom (7)
-4 Energy-Support (4)
-4 Energy-Burst (3)
-3 Take Inventory (6)
-4 Disrupt (2)
+4 Shockwave         (4)
+4 Planning Ahead    (2)
+3 Energy-Boom       (7)
+4 Energy-Support    (4)
+4 Energy-Burst      (3)
+3 Take Inventory    (6)
+4 Disrupt           (2)
 
 
 
 Gameplay:
 
 Play a more defensive Game and Overwhelm your Opponent in the Late Game with your Titans and Card Advantage.
-Ramp up using Action Cards that drop Supply-Mechs and get your beater on the Battle Zone as quickly as Possible.
+Ramp up using Action Cards that drop Supply-Mechs and get your beater on the Battlezone as quickly as Possible.
 Use 'Planning ahead' to finetune your draws for several Turns and prepare for your reactive Gameplay.
 
 
+
+
+Control:
+
+Mechs: (5)
+
+1 Y2-99 World Defender  (13)
+2 P2-31 World Supporter (14)
+2 X2-11 World Destroyer (15)
+
+
+Operations: (35)
+
+4 Heatblast         (1)
+4 Research          (2)
+4 Planning ahead    (2)
+4 Disrupt           (2)
+4 Heatflare         (3)
+3 Brutal Strike     (3)
+3 Energy-Support    (4)
+3 Heatwave          (5)
+
+4 Take Inventory    (6)
+2 Energy-Boom       (7)
+
+
+Gameplay:
+
+Slow your Opponents down and use the most powerful Operations to win the Battle!
+Break your Opponents' Mechs down Piece by Piece and put your own Threat onto the Battlezone, winning the Game
+from that Point onward!

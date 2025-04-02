@@ -75,7 +75,7 @@ Operations: (35)
 
 4 Heatblast         (1)
 4 Research          (2)
-4 Planning ahead    (2)
+4 Planning Ahead    (2)
 4 Disrupt           (2)
 4 Heatflare         (3)
 3 Brutal Strike     (3)

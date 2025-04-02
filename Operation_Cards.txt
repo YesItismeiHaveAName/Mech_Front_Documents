@@ -133,7 +133,7 @@ Gain 1 Energy.
 
 -------------------------------------------------------
 
-Planning ahead:
+Planning Ahead:
 
 Energy-Costs: 2
 Tempo: Slow

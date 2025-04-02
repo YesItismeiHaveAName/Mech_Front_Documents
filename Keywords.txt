@@ -9,11 +9,12 @@ On Enter: When this Mech enters the Battlezone.
 
 On Break: When this Mech gets broken via Damage or an Ability.
 
+Drop: Refers to a Token-Mech. When dropping Token-Mechs, put the set Amount of the specified Token on the Battle Zone
+under your Command.
 
 Shield X: The Mech receives X Shield-Counter on Enter.
 
 Shield for X: The Mech receives X additional Shield-Counter.
-
 
 Repair for X: Remove X Damage Counters from the targeted Mech.
 

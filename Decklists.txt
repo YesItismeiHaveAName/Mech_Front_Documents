@@ -48,7 +48,7 @@ Operations: (26)
 3 Energy-Boom       (7)
 4 Energy-Support    (4)
 4 Energy-Burst      (3)
-3 Take Inventory    (6)
+3 Take Inventory    (7)
 4 Disrupt           (2)
 
 
@@ -82,7 +82,7 @@ Operations: (35)
 4 Energy-Support    (4)
 3 Heatwave          (5)
 
-4 Take Inventory    (6)
+4 Take Inventory    (7)
 2 Energy-Boom       (7)
 
 

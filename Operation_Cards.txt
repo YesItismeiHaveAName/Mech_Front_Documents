@@ -104,7 +104,7 @@ Break target Mech.
 
 Take Inventory:
 
-Energy-Costs: 6
+Energy-Costs: 7
 Tempo: Fast
 Amount: 4
 

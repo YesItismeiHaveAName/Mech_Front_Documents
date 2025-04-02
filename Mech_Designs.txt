@@ -81,7 +81,7 @@ Attack: 5
 Health: 6
 
 2E: Damage target Mech for 1.
-3E: Repair Target Mech for 1.
+3E: Repair target Mech for 1.
 4E: Shock target Mech for 1.
 3E: Draw 1 Card.
 
@@ -118,6 +118,8 @@ Energy-Costs: 3
 Tempo: Slow
 Attack: 2
 Health: 1
+
+Rush
 
 On Enter: Damage target Mech or Commander for 2.
 

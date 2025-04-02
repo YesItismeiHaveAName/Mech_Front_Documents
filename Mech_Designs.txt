@@ -97,7 +97,7 @@ Health: 4
 Special
 Rush
 This Mech attacks each turn, if able.
-2E, discard 1 Card: Damage a Mech or a Commander for 2.
+2E, discard 1 Card: Damage target Mech or a Commander for 2.
 
 -------------------------------------------------------
 

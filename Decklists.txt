@@ -7,7 +7,7 @@ Mechs: (32)
 4 Z4-21 Supporter   (2)
 4 J4-90 Attacker    (3)
 6 Y6-12 Attacker    (3)
-4 U4-22 Disrupter   (3)
+4 I4-41 Attacker:   (3)
 4 H4-12 Ravager     (5)
 
 

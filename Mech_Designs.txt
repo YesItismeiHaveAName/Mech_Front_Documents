@@ -190,5 +190,16 @@ Break this Mech:  Shield target Mech you command for 1.
 
 -------------------------------------------------------
 
+I4-41 Attacker:
+
+Energy-Costs: 3
+Tempo: Slow
+Attack: 2
+Health: 3
+
+1E: This Mech powers up for 1.
+
+-------------------------------------------------------
+
 
 

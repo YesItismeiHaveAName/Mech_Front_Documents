@@ -16,6 +16,8 @@ Shield X: The Mech receives X Shield-Counter on Enter.
 
 Shield for X: The Mech receives X additional Shield-Counter.
 
+Power Up X: A mech powers up for x, its Attack get increased by X until the end of turn.
+
 Repair for X: Remove X Damage Counters from the targeted Mech.
 
 Shock for X: Put X Shock Counters on target Mech. It exhausts.

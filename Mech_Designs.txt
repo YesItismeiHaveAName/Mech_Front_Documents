@@ -201,5 +201,17 @@ Health: 3
 
 -------------------------------------------------------
 
+Z4-01 Lasergunner:
+
+Energy-Costs: 2
+Tempo: Slow
+Attack: 0
+Health: 2
+
+EXHAUST: Deal 1 Damage to target Mech.
+
+-------------------------------------------------------
+
+
 
 

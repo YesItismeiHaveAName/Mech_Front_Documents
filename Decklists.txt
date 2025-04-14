@@ -3,7 +3,7 @@ Aggro:
 Mechs: (32)
 
 6 Z6-03 Prototype   (1)
-6 A6-02 Recruited   (2)
+4 A6-02 Recruited   (2)
 4 Z4-21 Supporter   (2)
 4 J4-90 Attacker    (3)
 6 Y6-12 Attacker    (3)

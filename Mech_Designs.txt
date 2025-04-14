@@ -212,7 +212,7 @@ EXHAUST: Deal 1 Damage to target Mech.
 
 -------------------------------------------------------
 
-E4-00 Energy-Generator:
+E4-00 Generator:
 
 Energy-Costs: 2
 Tempo: Slow
